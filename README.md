@@ -1,4 +1,4 @@
-## CodeIgniter 4 on Digital Ocean App Plataform
+# CodeIgniter 4 - Digital Ocean App Plataform
 
 This repository contains an example application built with CodeIgniter 4, a popular PHP framework for building web applications. The application includes a simple "Welcome to CodeIgniter 4 Page" and a button that allows for easy deployment to DigitalOcean's App Platform.
 
