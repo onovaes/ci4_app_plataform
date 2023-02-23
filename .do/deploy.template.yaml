@@ -1,0 +1,8 @@
+spec:
+  name: ci4
+  services:
+  - environment_slug: php
+    git:
+      branch: master
+      repo_clone_url: https://github.com/onovaes/ci4_app_plataform.git
+    name: ci4

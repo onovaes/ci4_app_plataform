@@ -1,0 +1,8 @@
+name: ci4
+services:
+- environment_slug: php
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: onovaes/ci4_app_plataform
+  name: ci4
