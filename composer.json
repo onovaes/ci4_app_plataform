@@ -1,8 +1,7 @@
 {
-    "name": "codeigniter4/appstarter",
+    "name": "onovaes/ci4_app_plataform",
     "type": "project",
-    "description": "CodeIgniter4 starter app",
-    "homepage": "https://codeigniter.com",
+    "description": "CCodeIgniter 4 on Digital Ocean App Plataform",
     "license": "MIT",
     "require": {
         "php": "^7.4 || ^8.0",
@@ -30,10 +29,5 @@
     },
     "scripts": {
         "test": "phpunit"
-    },
-    "support": {
-        "forum": "https://forum.codeigniter.com/",
-        "source": "https://github.com/codeigniter4/CodeIgniter4",
-        "slack": "https://codeigniterchat.slack.com"
     }
 }
