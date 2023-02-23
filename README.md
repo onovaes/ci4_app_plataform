@@ -11,4 +11,4 @@ Click this button to deploy the app to the DigitalOcean App Platform.
 After clicking the **Deploy to DigitalOcean** button or completing the instructions above to fork the repo, follow these steps:
 
 1. Next, next, next ...
-1. Once the build completes successfully, click the **Live App** link in the header and you should see your running application in a new tab, displaying the home page.
+1. Once the build completes successfully, click the **Live App** link in the header and you should see your running application in a new tab, displaying the Welcome to CodeIgniter 4 page.
