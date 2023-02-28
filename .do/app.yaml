@@ -2,7 +2,7 @@ name: ci4
 services:
 - environment_slug: php
   github:
-    branch: master
+    branch: rqs-testes
     deploy_on_push: true
     repo: onovaes/ci4_app_plataform
   name: ci4

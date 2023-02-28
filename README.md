@@ -12,7 +12,7 @@ Whether you're new to CodeIgniter 4 or just looking for a quick way to deploy yo
 
 Click this button to deploy the app to the DigitalOcean App Platform. 
 
-[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/onovaes/ci4_app_plataform/tree/master&refcode=c2dbff297295)
+[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/onovaes/ci4_app_plataform/tree/rqs-testes&refcode=c2dbff297295)
 
 After clicking the **Deploy to DigitalOcean** button:
 

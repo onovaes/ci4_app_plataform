@@ -3,6 +3,6 @@ spec:
   services:
   - environment_slug: php
     git:
-      branch: master
+      branch: rqs-testes
       repo_clone_url: https://github.com/onovaes/ci4_app_plataform.git
     name: ci4
